@@ -4,7 +4,11 @@ A project for 2023 UET Object-Oriented Programming
 
 ## Introduction
 
-A Java-based English learning app featuring a user-friendly interface powered by JavaFX.
+- A Java-based English learning app featuring a user-friendly interface powered by JavaFX.
+- Group members:
+  - Lê Minh Tâm - 22024500
+  - Hoàng Thu Hiếu - 22024517
+  - Nguyễn Thị Hương - 22024549
 
 ![Thumbnail](https://github.com/maple1606/LexiCatResource---JavaFX-Project-for-INT2204/assets/97957290/58697d43-ff07-4e46-9f3b-19bd209ac16b)
 
